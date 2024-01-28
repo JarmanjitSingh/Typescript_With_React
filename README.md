@@ -1,0 +1,1 @@
+For Better understanding go according to the app.tsx rendering components and topics
